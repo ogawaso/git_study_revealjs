@@ -3,13 +3,13 @@
 - 持ってない人はサインアップする
 
 - SSH keysの作成する必要ある
+- [設定方法](https://help.github.com/articles/generating-ssh-keys)を参考にしてください
 ```console
 ssh-keygen -t rsa -C 'ogawaso@gmail.com'
 ```
 ```console
 ls ~/.ssh/id_rsa.pub
 ```
-
 - githubのサイトのメニューの右上のAccount Settingsのリンクを押す
 - SSH keysを押す
 - Add SSH keysリンクを押して公開鍵を貼付ける

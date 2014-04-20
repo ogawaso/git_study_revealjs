@@ -11,8 +11,7 @@ index 5e3c993..aa711e6 100644
 --- a/sample.rb
 +++ b/sample.rb
 @@ -1 +1,2 @@
- puts "hello world!"
- +puts "stash!"
+ +puts "hello world!"
 
 </pre>
 

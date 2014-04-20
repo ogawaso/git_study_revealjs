@@ -1,7 +1,7 @@
 ### ファイルの削除
 - ファイルをリポジトリから削除したいとき
 ```console
-git rm ファイル名
+git rm sample.rb
 ```
 - 削除対象になっている
 ```console
